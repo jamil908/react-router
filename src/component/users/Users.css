@@ -1,0 +1,10 @@
+.users{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.design{
+    background-color: darkmagenta;
+    border: 2px solid wheat;
+    padding: 5px;
+}
